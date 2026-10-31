@@ -131,7 +131,7 @@ The interactive Power BI dashboard provides an overview of retail performance th
 
 <!-- Add your actual Power BI dashboard screenshots here -->
 
-![Dashboard Preview](powerbi/screenshots/dashboard_overview.png)
+![Dashboard Preview](https://github.com/yashraj1656/dmart-retail-performance-analysis/blob/main/Screenshot%202026-11-01%20010311.png)
 
 ## 📈 Key Business Insights
 
